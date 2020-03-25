@@ -1,0 +1,8 @@
+C:\Users\Kelly\source\repos\NETCoreProjects\MovieShop\MovieShop.Core\bin\Debug\netstandard2.0\MovieShop.Core.deps.json
+C:\Users\Kelly\source\repos\NETCoreProjects\MovieShop\MovieShop.Core\bin\Debug\netstandard2.0\MovieShop.Core.dll
+C:\Users\Kelly\source\repos\NETCoreProjects\MovieShop\MovieShop.Core\obj\Debug\netstandard2.0\MovieShop.Core.AssemblyInfoInputs.cache
+C:\Users\Kelly\source\repos\NETCoreProjects\MovieShop\MovieShop.Core\obj\Debug\netstandard2.0\MovieShop.Core.AssemblyInfo.cs
+C:\Users\Kelly\source\repos\NETCoreProjects\MovieShop\MovieShop.Core\bin\Debug\netstandard2.0\MovieShop.Core.pdb
+C:\Users\Kelly\source\repos\NETCoreProjects\MovieShop\MovieShop.Core\obj\Debug\netstandard2.0\MovieShop.Core.dll
+C:\Users\Kelly\source\repos\NETCoreProjects\MovieShop\MovieShop.Core\obj\Debug\netstandard2.0\MovieShop.Core.pdb
+C:\Users\Kelly\source\repos\NETCoreProjects\MovieShop\MovieShop.Core\obj\Debug\netstandard2.0\MovieShop.Core.csprojAssemblyReference.cache
